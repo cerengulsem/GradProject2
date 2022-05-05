@@ -9,4 +9,4 @@ This project is based on performance testing of a live website, at this point, t
 <br>Apache JMeter</br>
 
 ## To Run The Project
-<br>Download or clone the project file</br>Open Apache JMeter and run the file:
+<br>Download or clone the project file</br>Open Apache JMeter and run the file
